@@ -2,4 +2,4 @@
 drawing ferb with css
 
 # result
-<img src="https://imgur.com/a/rocSQww" alt="An example image">
+<img src="https://i.imgur.com/e7u5pcH.png" alt="An example image">
