@@ -2,4 +2,4 @@
 drawing ferb using css
 
 # result
-<img src="https://i.imgur.com/e7u5pcH.png" alt=" lag">
+<img src="https://i.imgur.com/e7u5pcH.png" alt=" lg">
