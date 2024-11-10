@@ -1,4 +1,4 @@
-# ferb
+# fer
 drawing ferb using c
 
 # result
